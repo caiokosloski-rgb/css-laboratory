@@ -10,7 +10,7 @@ body {
 
 header {
     background-color: #424e61;
-    color: white;
+    color: rgb(255, 255, 255);
     width: 100%;
     padding: 20px;
 }
@@ -68,7 +68,7 @@ header {
 }
 
 .estudante {
-    background-color: #fdfdfd; /* Corrigido: removido o erro 'background-image: background-color' */
+    background-color: #ffffff; /* Corrigido: removido o erro 'background-image: background-color' */
     padding: 24px 0;
 }
 
@@ -84,7 +84,7 @@ header {
 
 .escola {
     background-image: linear-gradient(#40A2E3,#7FC2EF);
-    color: white;
+    color: rgb(255, 255, 255);
     padding: 24px 0;
     text-align: center;
     display: block; /* Simplificado: removido o flex duplicado para evitar conflitos */
