@@ -85,6 +85,8 @@ text-align: center;
 .logo_rodape{
 height: 80px;
 padding: 12px 0;
+display: flex;
+justify-content: flex-start;
 
 }
 
